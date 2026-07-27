@@ -16,10 +16,10 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="/Soumayaarfaoui | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][inkedin]
+[<img align="left" alt="JoshMadakor | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][inkedin]
 
 [gmail]: mailto:YOUR_EMAIL@gmail.com
-[linkedin]: https://www.linkedin.com/in/soumaya-arfaoui-58b79a292/
+[: https://www.linkedin.com/in/soumaya-arfaoui-58b79a292/
 
 
 
