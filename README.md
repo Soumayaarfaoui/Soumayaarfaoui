@@ -1,4 +1,4 @@
-<h1>Hi, I'm Soumaya! <br/><a href="https://github.com/joshmadakor1"></a>, <a href="https://www.linkedin.com/in/soumaya-arfaoui-58b79a292/">Cybersecurity Engineering student | SOC & DevSecOps learner</a></h1>
+<h1>Hi, I'm Soumaya! <br/><a href="https://github.com/joshmadakor1"></a>, <a href="https://www.linkedin.com/in/soumaya-arfaoui/">Cybersecurity Engineering student | SOC & DevSecOps learner</a></h1>
 
 <h2>👨‍💻 SOC analyst Projects:</h2>
 
@@ -19,7 +19,7 @@
 [<img align="left" alt="JoshMadakor | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [gmail]: mailto:YOUR_EMAIL@gmail.com
-[linkedin]: https://www.linkedin.com/in/soumaya-arfaoui-58b79a292/
+[linkedin]: https://www.linkedin.com/in/soumaya-arfaoui/
 
 
 
