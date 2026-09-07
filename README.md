@@ -7,8 +7,8 @@
 
 <h2>👨‍💻 Devops/Devsecops Projects:</h2>
 
-- <b></b>
-  -
+- <b>E-commerce DevSecOps Project</b>
+  - [devops-Organization-by-soumaya](https://github.com/orgs/devops-Organization-by-soumaya/repositories)
 
 <h2>🏆 Certifications:</h2>
 
