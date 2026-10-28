@@ -9,7 +9,7 @@
 <h2>🛡️ SOC Analyst Challenge:</h2>
 
 - <b>SOC practice labs (in progress)</b>
-  - [Add your repo link here](https://github.com/Soumayaarfaoui)
+  - [SOC Challenge]([https://github.com/Soumayaarfaoui](https://github.com/Soumayaarfaoui/soc-analyst-challenge.git))
 
 <h2>👨‍💻 DevOps/DevSecOps Projects:</h2>
 
@@ -26,7 +26,6 @@
 - <a href="https://rhtapps.redhat.com/verify?certId=250-127-198">
   <b>RHCSA - Red Hat Certified System Administrator</b>
 </a>
-- Currently preparing: CompTIA Security+
 
 <h2>🤳 Connect with me:</h2>
 
