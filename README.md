@@ -6,17 +6,17 @@
 - <b>Cloud-Native SIEM with Azure Monitor & Microsoft Sentinel</b>
   - [SIEM-Cloud-Native-with-Azure-Monitor-Sentinel](https://github.com/Soumayaarfaoui/SIEM-Cloud-Native-with-Azure-Monitor-Sentinel)
 
-<h2>🛡️ SOC Analyst Challenge:</h2>
+<h2>🛡️ SOC Analyst Challenge (in progress):</h2>
 
-- <b>SOC practice labs (in progress)</b>
-  - [SOC Challenge]([https://github.com/Soumayaarfaoui](https://github.com/Soumayaarfaoui/soc-analyst-challenge.git))
+- <b>SOC practice labs: triage, detection, incident response, hunting</b>
+  - [soc-analyst-challenge](https://github.com/Soumayaarfaoui/soc-analyst-challenge)
 
 <h2>👨‍💻 DevOps/DevSecOps Projects:</h2>
 
 - <b>E-commerce DevSecOps Project</b>
   - [devops-Organization-by-soumaya](https://github.com/orgs/devops-Organization-by-soumaya/repositories)
 
-<h2>🚀 DevOps Learning Challenge:</h2>
+<h2>🚀 DevOps Learning Challenge (in progress):</h2>
 
 - <b>100 Days of DevOps (KodeKloud), my own notes</b>
   - [100-days-of-devops](https://github.com/Soumayaarfaoui/100-days-of-devops)
