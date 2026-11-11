@@ -18,7 +18,7 @@
 - <b>100 Days of DevOps (KodeKloud), my own notes</b>
   - [100-days-of-devops]([https://github.com/Soumayaarfaoui/100-days-of-devops](https://github.com/Soumayaarfaoui/100-days-of-devops-kodekloud))
  
-  h2>🚀 cloud Azure Challenge (in progress):</h2>
+  <h2>🚀 cloud Azure Challenge (in progress):</h2>
 
 - <b>100 Days of azure  (KodeKloud)</b>
   - [100-days-of-azure](https://github.com/Soumayaarfaoui/100-days-of-devops-kodekloud.git)   
