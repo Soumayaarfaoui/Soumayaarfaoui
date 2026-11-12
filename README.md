@@ -1,35 +1,35 @@
-<h1>Hi, I'm Soumaya! <br/>
-<a href="https://www.linkedin.com/in/soumaya-arfaoui/">Cybersecurity Engineering student | SOC & DevSecOps learner</a></h1>
+# Hi, I'm Soumaya!
 
-<h2>👨‍💻 SOC Analyst Projects:</h2>
+<a href="https://www.linkedin.com/in/soumaya-arfaoui/">Cybersecurity Engineering Student | SOC & DevSecOps Learner</a>
 
-- <b>Cloud-Native SIEM with Azure Monitor & Microsoft Sentinel</b>
+## 👨‍💻 SOC & Cloud Security Projects
+
+- **Cloud-Native SIEM with Azure Monitor & Microsoft Sentinel**
   - [SIEM-Cloud-Native-with-Azure-Monitor-Sentinel](https://github.com/Soumayaarfaoui/SIEM-Cloud-Native-with-Azure-Monitor-Sentinel)
 
+## 👨‍💻 DevOps / DevSecOps Projects
 
+- **KubeSentinel – Kubernetes Security & AI-Assisted Threat Detection** *(In Progress)*
+  - [KubeSentinel](https://github.com/Soumayaarfaoui/kubesentinel)
 
-<h2>👨‍💻 DevOps/DevSecOps Projects:</h2>
-
-- <b>E-commerce DevSecOps Project</b>
+- **E-commerce DevSecOps Project**
   - [devops-Organization-by-soumaya](https://github.com/orgs/devops-Organization-by-soumaya/repositories)
 
-<h2>🚀 DevOps Learning Challenge (in progress):</h2>
+## 🚀 DevOps Learning Challenge *(In Progress)*
 
-- <b>100 Days of DevOps (KodeKloud), my own notes</b>
-  - [100-days-of-devops](https://github.com/Soumayaarfaoui/100-days-of-devops-kodekloud.git)
- 
-  <h2>🚀 cloud Azure Challenge (in progress):</h2>
+- **100 Days of DevOps – KodeKloud (Personal Notes)**
+  - [100-days-of-devops](https://github.com/Soumayaarfaoui/100-days-of-devops-kodekloud)
 
-- <b>100 Days of azure  (KodeKloud)</b>
-  - [100-days-of-azure](https://github.com/Soumayaarfaoui/100-days-of-devops-kodekloud.git)   
+## ☁️ Azure Learning Challenge *(In Progress)*
 
-<h2>🏆 Certifications:</h2>
+- **100 Days of Azure – KodeKloud**
+  - [100-days-of-azure](https://github.com/Soumayaarfaoui/100-days-of-azure-kodekloud)
 
-- <a href="https://rhtapps.redhat.com/verify?certId=250-127-198">
-  <b>RHCSA - Red Hat Certified System Administrator</b>
-</a>
+## 🏆 Certifications
 
-<h2>🤳 Connect with me:</h2>
+- <a href="https://rhtapps.redhat.com/verify?certId=250-127-198"><b>RHCSA – Red Hat Certified System Administrator</b></a>
+
+## 🤳 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/soumaya-arfaoui/)
 - [Email](mailto:YOUR_EMAIL@gmail.com)
