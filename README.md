@@ -6,6 +6,8 @@
 
 - **Cloud-Native SIEM with Azure Monitor & Microsoft Sentinel**
   - [SIEM-Cloud-Native-with-Azure-Monitor-Sentinel](https://github.com/Soumayaarfaoui/SIEM-Cloud-Native-with-Azure-Monitor-Sentinel)
+  - [soc-lab-nids-suricata-zeek-splunk-grafana](https://github.com/Soumayaarfaoui/soc-lab-nids-suricata-zeek-splunk-grafana.git)
+
 
 ## 👨‍💻 DevOps / DevSecOps Projects
 
